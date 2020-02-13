@@ -1,0 +1,53 @@
+<div class="border-bottom">
+    <h3 class="h3">栏目管理</h3>
+</div>
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+    <li class="nav-item">
+        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#user-edit" role="tab" aria-controls="home" aria-selected="true">栏目添加</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#user-list" role="tab" aria-controls="profile" aria-selected="false">栏目列表</a>
+    </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+    <!-- 栏目添加 -->
+    <div class="tab-pane fade show active" id="user-edit" role="tabpanel" aria-labelledby="home-tab">
+        <form class="mt-3">
+            <div class="form-group">
+                <label for="section-name">栏目名称:</label>
+                <input type="text" class="form-control w-50" id="section-name">
+            </div>
+            <div class="form-group">
+                <label for="section-url">栏目地址:</label>
+                <input type="text" class="form-control w-50" id="section-url" >
+            </div>
+            <div class="form-group mt-2">
+                <button type="submit" class="btn btn-primary">创建</button>
+            </div>
+        </form>
+    </div>
+    <!-- 栏目列表 -->
+    <div class="tab-pane fade" id="user-list" role="tabpanel" aria-labelledby="profile-tab">
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">栏目名称</th>
+                <th scope="col">栏目地址</th>
+                <th scope="col">操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>1</td>
+                <td>杂记</td>
+                <td>111</td>
+                <td>
+                    <a href="#"><i data-feather="edit" class="info-size"></i></a>
+                    <a href="#"><i data-feather="delete" class="info-size"></i></a>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
