@@ -15,6 +15,7 @@
 
 Route::get("/","Web\WebController@index")->name("index");
 Route::get("/article/{article}","Web\WebController@article")->name("article");
+Route::post("/search","Web\WebController@search_article")->name("search");
 
 
 /* admin backstage */

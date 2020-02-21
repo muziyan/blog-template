@@ -40,6 +40,16 @@ class WebController extends Controller
 
     }
 
+    public function search_article(Request $request){
+        $echostr = $request['search_article'];
+
+        $articles = Article::where("article_title",$echostr)->orWhere("article_title","like","%".$echostr."%")->paginate(5);
+
+        return view("web.index",[
+            "articles" => $articles
+        ]);
+
+    }
 
     public function update_hit($article_id){
 
