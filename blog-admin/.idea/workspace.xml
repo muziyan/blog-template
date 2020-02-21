@@ -1,7 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="903f7315-402f-42b0-8263-b9a8921d6555" name="Default Changelist" comment="" />
+    <list default="true" id="903f7315-402f-42b0-8263-b9a8921d6555" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/admin/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/admin/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/admin/js/laravel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/admin/js/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/admin/markdown/markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/admin/markdown/markdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/README_CN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwkxduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlBduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmBduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmhduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmxduz8A.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/L0x5DF4xlVMF-BfR8bXMIjhEq3-cXbKDO1w.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/L0x5DF4xlVMF-BfR8bXMIjhFq3-cXbKDO1w.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/L0x5DF4xlVMF-BfR8bXMIjhGq3-cXbKDO1w.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/L0x5DF4xlVMF-BfR8bXMIjhHq3-cXbKDO1w.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/L0x5DF4xlVMF-BfR8bXMIjhIq3-cXbKDO1w.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/L0x5DF4xlVMF-BfR8bXMIjhLq3-cXbKD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/public/assert/markdown-css/vue/L0x5DF4xlVMF-BfR8bXMIjhPq3-cXbKDO1w.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/admin/article.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/admin/carousel.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/admin/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/admin/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/admin/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/admin/photo.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/admin/section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/admin/user.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/shared/_flash.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/web/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-laravel/resources/views/web/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/User.html" beforeDir="false" afterPath="$PROJECT_DIR$/View/User.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/.idea/blogphp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-php/webpack.mix.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +161,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Xh32srlRoOn9g2FcpumEFVoK7W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,8 +174,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../README.md" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,7 +215,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581484294263</updated>
-      <workItem from="1581484295456" duration="23519000" />
+      <workItem from="1581484295456" duration="24008000" />
+      <workItem from="1581831706815" duration="3587000" />
+      <workItem from="1582009337566" duration="14000" />
     </task>
     <servers />
   </component>
@@ -76,10 +229,10 @@
       <screen x="0" y="0" width="1920" height="1026" />
     </state>
     <state x="587" y="298" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1026/1920.0.1920.1080@0.0.1920.1026" timestamp="1581484818346" />
-    <state x="747" y="265" key="FileChooserDialogImpl" timestamp="1581568439756">
+    <state x="747" y="265" width="426" height="496" key="FileChooserDialogImpl" timestamp="1582009350203">
       <screen x="0" y="0" width="1920" height="1026" />
     </state>
-    <state x="747" y="265" key="FileChooserDialogImpl/0.0.1920.1026/1920.0.1920.1080@0.0.1920.1026" timestamp="1581568439756" />
+    <state x="747" y="265" width="426" height="496" key="FileChooserDialogImpl/0.0.1920.1026/1920.0.1920.1080@0.0.1920.1026" timestamp="1582009350203" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581555408149">
       <screen x="0" y="0" width="1920" height="1026" />
     </state>

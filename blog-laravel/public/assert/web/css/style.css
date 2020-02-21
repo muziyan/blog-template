@@ -1,0 +1,136 @@
+*{
+    margin:0;
+    padding: 0;
+    font-size:16px;
+    line-height: 1.6;
+    box-sizing: border-box;
+}
+
+main{
+    padding: 30px 0;
+}
+
+main>section{
+    padding: 60px 0;
+}
+
+/* title */
+.title-box{
+    margin-bottom:30px;
+    text-align:center;
+}
+.title-box .title{
+    font-size:26px;
+    text-transform: uppercase;
+}
+.title-box .title-description{
+    color:#333;
+    font-size:16px;
+}
+
+/* more */
+.more{
+    position: absolute;
+    bottom: 0;
+}
+
+/* banner image */
+
+
+/* about */
+#about .text{
+    color:#232323;
+    line-height:30px;
+    text-indent: 2em;
+}
+
+
+
+/* article */
+#article .card{
+    padding:0;
+    margin-bottom: 20px;
+}
+
+#article-content .info span{
+    margin-right:20px;
+    font-size:14px;
+    color:#232323;
+}
+/* svg image style */
+#article-content .info span svg{
+    width:18px;
+    height:18px;
+    margin-right:5px;
+}
+#article-content .main-content{
+    margin-top:30px;
+}
+
+.pagination{
+    justify-content: center;
+}
+
+/* waterfalls flow */
+.waterfalls{
+    margin-top: 30px;
+    column-count: 4;
+    column-gap: 0;
+    counter-reset: item-counter;
+}
+.waterfalls .waterfalls-item{
+    box-sizing: border-box;
+    break-inside: avoid;
+    padding: 10px;
+    counter-increment: item-counter;
+}
+
+
+/* footer */
+footer{
+    background:#eee;
+    margin:0;
+    padding:15px 0;
+}
+footer p{
+    color:#999;
+    margin:0;
+    line-height:2;
+    font-size:.8rem;
+}
+
+
+/* banner image processing*/
+@media screen and (min-width: 1200px){
+    main{
+        padding: 60px 0;
+    }
+
+    #carouselExampleControls .carousel-inner .carousel-item img{
+        object-fit: fill;
+        height: 100vh !important;
+        margin-top:-200px;
+        z-index: -1;
+    }
+}
+
+
+@media screen and (max-width: 992px){
+    #about .row div:first-child{
+        margin-bottom:30px;
+    }
+    #about .row .text{
+        padding-bottom:50px;
+    }
+
+    #photos .waterfalls{
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 511px) {
+
+    #photos .waterfalls{
+        column-count: 2;
+    }
+}
